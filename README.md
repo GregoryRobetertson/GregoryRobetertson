@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**GregoryRobetertson/GregoryRobetertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, World! 👋
 
-Here are some ideas to get you started:
+I'm Gregory Robertson, an aspiring software developer and frontend enthusiast currently honing my skills at CodeX Academy. 🚀 My journey into the world of tech has been a thrilling exploration of HTML, CSS, and JavaScript. I love crafting beautiful and responsive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 Skills:
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** VsCode,GitHub
+
+#### 📚 Learning:
+- Currently diving deep into frontend development.
+
+#### 🛠️ Projects:
+- Check out my repositories for projects that showcase my coding journey.
