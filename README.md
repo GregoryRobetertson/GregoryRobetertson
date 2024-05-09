@@ -5,10 +5,10 @@ I'm Gregory Robertson, an aspiring software developer and frontend enthusiast cu
 #### 🎓 Education:
 - High School Graduate, Class of 2023
 - Jewel Sumner High School
-- Current Learning FrontEnd Development at CodeXAcademy
+- Current Learning Fu Development at CodeXAcademy
 
 #### 🌐 Skills:
-- **Languages:** HTML, CSS, Bootstrap, JavaScript
+-  HTML, CSS, Bootstrap, JavaScript, nodejs, Reactjs, Jest, Framework, Webpack  
 - **Tools:** VsCode, GitHub
   
 ## 💻 Learning Journey
