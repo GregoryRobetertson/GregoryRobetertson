@@ -5,11 +5,22 @@ I'm Gregory Robertson, an aspiring software developer and frontend enthusiast cu
 #### 🎓 Education:
 - High School Graduate, Class of 2023
 - Jewel Sumner High School
-- Current Learning Fu Development at CodeXAcademy
+- Graduate of CodeX Academy
 
 #### 🌐 Skills:
--  HTML, CSS, Bootstrap, JavaScript, nodejs, Reactjs, Jest, Framework, Webpack, Next
-- **Tools:** VsCode, GitHub
+- Languages: JavaScript (ES6+), HTML, CSS
+
+- Frameworks and libraries: React, Nodejs, Nextjs, lodash, Axios, expressJS
+
+- Cloud computing services: Firebase, Codespace, mongoDB
+
+- Front-end tools: Bootstrap, Sass, Figma, Lighthouse, Jest
+
+- Other tools: OAuth, GitHub, VS Code, Netlify, Emailjs, GitLab
+
+- Communication & Collaboration: Excellent written and verbal communication, teamwork, agile methodologies
+
+- Problem-Solving & Analytical Skills: Algorithmic thinking, debugging, troubleshooting, data analysis
   
 ## 💻 Learning Journey
 Excited to explore the world of software development and continuously enhance my skills.
