@@ -1,6 +1,7 @@
 ### Hello, World! 👋
 
-I'm Gregory Robertson, an aspiring software developer and frontend enthusiast currently honing my skills at CodeX Academy. 🚀 My journey into the world of tech has been a thrilling exploration of HTML, CSS,Bootstrap, and advanced JavaScript. I love crafting beautiful and responsive web experiences. I find joy in coding, playing video games, listening to music, and drumming during my free time.
+I'm Gregory Robertson, a Full-Stack Developer with a strong foundation in frontend technologies. I recently graduated from CodeX Academy, where I successfully completed their rigorous program and earned a Full-Stack Developer certificate. My passion lies in crafting elegant and user-friendly web applications, leveraging my expertise in HTML, CSS, Bootstrap, and advanced JavaScript.
+Outside of coding, I enjoy immersing myself in the world of video games, exploring different music genres, and expressing my creativity through drumming. I'm eager to contribute my skills and enthusiasm to a dynamic team and build innovative software solutions.
 
 #### 🎓 Education:
 - High School Graduate, Class of 2023
